@@ -16,8 +16,16 @@ Execute project
     npm run dev
 ```
 
-Author.
+### Author
 
-> Erneto Valenzuela hello@netov.dev [Web](https://netov.dev)
+> Erneto Valenzuela Vargas
 
-> Gelacio Azael
+> Web Site: [Web Link](https://netov.dev)
+
+> Twitter: [Perfil](https://twitter.com/neto_dev)
+
+> Gelacio Azael Fernandez:
+
+> Web Site: [Web Link](https://kasec.github.io/me/)
+
+> Twitter: [Perfil](https://twitter.com/azaelfernandez)
